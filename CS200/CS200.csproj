@@ -45,6 +45,22 @@
   <ItemGroup>
     <Compile Include="Program005.cs" />
     <Compile Include="Program006.cs" />
+    <Compile Include="Program008.cs" />
+    <Compile Include="Program015.cs" />
+    <Compile Include="Program016.cs" />
+    <Compile Include="Program017.cs" />
+    <Compile Include="Program019.cs" />
+    <Compile Include="Program020.cs" />
+    <Compile Include="Program021.cs" />
+    <Compile Include="Program022.cs" />
+    <Compile Include="Program023.cs" />
+    <Compile Include="Program018.cs" />
+    <Compile Include="Program014.cs" />
+    <Compile Include="Program013.cs" />
+    <Compile Include="Program012.cs" />
+    <Compile Include="Program011.cs" />
+    <Compile Include="Program010.cs" />
+    <Compile Include="Program009.cs" />
     <Compile Include="Program007.cs" />
     <Compile Include="Program004.cs" />
     <Compile Include="Program003.cs" />
