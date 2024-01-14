@@ -16,7 +16,6 @@ namespace CS200
             {
                 Console.Write("{0,3}{1}", i, i % 10 != 0 ? "" : "\n");
             }
-
         }
     }
 }
