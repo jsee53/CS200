@@ -57,6 +57,16 @@
     <Compile Include="Program025.cs" />
     <Compile Include="Program037.cs" />
     <Compile Include="Program038.cs" />
+    <Compile Include="Program041.cs" />
+    <Compile Include="Program042.cs" />
+    <Compile Include="Program043.cs" />
+    <Compile Include="Program044.cs" />
+    <Compile Include="Program046.cs" />
+    <Compile Include="Program047.cs" />
+    <Compile Include="Program049.cs" />
+    <Compile Include="Program050.cs" />
+    <Compile Include="Program048.cs" />
+    <Compile Include="Program045.cs" />
     <Compile Include="Program040.cs" />
     <Compile Include="Program039.cs" />
     <Compile Include="Program036.cs" />
