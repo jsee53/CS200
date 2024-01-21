@@ -7,7 +7,7 @@ namespace CS200
         static void Main(string[] args)
         {
             // 실행할 cs 파일 선택
-            Program050.Solve050();
+            Program057.Solve057();
         }
     }
 }
