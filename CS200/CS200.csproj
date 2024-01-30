@@ -70,17 +70,6 @@
     <Compile Include="Program068.cs" />
     <Compile Include="Program069.cs" />
     <Compile Include="Program071.cs" />
-    <Compile Include="Program131.cs" />
-    <Compile Include="Program132.cs" />
-    <Compile Include="Program133.cs" />
-    <Compile Include="Program134.cs" />
-    <Compile Include="Program135.cs" />
-    <Compile Include="Program130.cs" />
-    <Compile Include="Program125.cs" />
-    <Compile Include="Program126.cs" />
-    <Compile Include="Program127.cs" />
-    <Compile Include="Program128.cs" />
-    <Compile Include="Program129.cs" />
     <Compile Include="Program124.cs" />
     <Compile Include="Program121.cs" />
     <Compile Include="Program123.cs" />
